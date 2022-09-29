@@ -1,6 +1,7 @@
 ## Hi there 👋
 #### My name is Thotsawat Jantapitak, You can call me Forn.
-#### Now I'm software engineer student at King Mongkut's Institute of Technology Ladkrabang
+#### I'm graduated from the Faculty of Information Technology @KMITL.
+### Interested in Web development
 
 <!--
 **jfornqz/jfornqz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
