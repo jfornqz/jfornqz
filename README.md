@@ -2,7 +2,7 @@
 
 #### My name is Thotsawat Jantapitak, You can call me Forn.
 #### I'm graduated from the Faculty of Information Technology @KMITL.
-#### I'm Interested in Web ***development***
+#### I'm Interested in ***Software development***
 
 ![Thotsawat_profile](https://i.ibb.co/bvSTzBd/IMG-0060.jpg "Profile")
 
