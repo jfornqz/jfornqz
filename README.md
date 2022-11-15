@@ -4,7 +4,7 @@
 #### I'm graduated from the Faculty of Information Technology @KMITL.
 #### I'm Interested in Web ***development***
 
-![Thotsawat_profile](https://images.pexels.com/photos/994605/pexels-photo-994605.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 "Profile")
+![Thotsawat_profile](https://i.ibb.co/bvSTzBd/IMG-0060.jpg "Profile")
 
 <!--
 **jfornqz/jfornqz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
