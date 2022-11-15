@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 #### My name is Thotsawat Jantapitak, You can call me Forn.
-#### I'm graduated from the Faculty of Information Technology @KMITL.
-#### I'm Interested in ***Software development***
+#### I'm graduated from the Faculty of Information Technology @KMITL🏫
+#### I'm Interested in ***Software development*** 💻
 
-![Thotsawat_profile](https://i.ibb.co/bvSTzBd/IMG-0060.jpg "Profile")
+![Thotsawat_profile](https://i.ibb.co/1Z8tbJX/IMG-8151.jpg "Profile")
 
 <!--
 **jfornqz/jfornqz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
