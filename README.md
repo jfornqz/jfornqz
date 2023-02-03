@@ -2,7 +2,7 @@
 
 #### My name is Thotsawat Jantapitak, You can call me Forn.
 #### I'm graduated from the Faculty of Information Technology @KMITL🏫
-#### I'm Interested in ***Software development*** 💻
+#### Hello, I'm Thotsawat a man interested in software development I started my journey with back-end developers. and continue to learn to develop other skills 💻
 
 ![Thotsawat_profile](https://i.ibb.co/1Z8tbJX/IMG-8151.jpg "Profile")
 
